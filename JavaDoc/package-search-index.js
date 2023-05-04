@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"minesdbl"},{"l":"minesdbl.controlador"},{"l":"minesdbl.model"},{"l":"minesdbl.vista"}];updateSearchResults();
